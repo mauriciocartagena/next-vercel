@@ -11,7 +11,7 @@ export const DarkLayout: FC<PropsWithChildren> = ({ children }) => {
       }}
     >
       <h3>dark-Layout</h3>
-      <div>{children}</div>
+      <div>{children}</div> 
     </div>
   );
 };
